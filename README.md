@@ -1,4 +1,5 @@
-# React + TypeScript + Vite
+# SnapNotes
+
 
 This project is a Note Application built with React, TypeScript, and Vite. It provides an optimized setup for fast development with HMR (Hot Module Replacement) and strict linting rules for cleaner, more reliable code.
 
